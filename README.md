@@ -1,2 +1,4 @@
 # caio
-Meu repositório pessoal
+Meu repositório pessoal !
+Estudante de Ciências da computação 🧭
+Developer Beginner 👶
